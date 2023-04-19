@@ -1,0 +1,10 @@
+
+body{
+    background-color: rgb(40, 210, 216);
+}
+/*product.handlebars*/
+#productId{
+    color: rgb(34, 139, 20);
+    font-weight: bold;
+}
+
